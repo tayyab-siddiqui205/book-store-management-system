@@ -1,17 +1,25 @@
-# book_store
+# Book Store Management System
 
-A new Flutter project.
+A Flutter-based mobile application for managing and browsing books.
 
-## Getting Started
+## Features
+- User authentication and account management
+- Browse books by category
+- Search books
+- Shopping cart and wishlist
+- Book ratings and reviews
+- Admin dashboard and book management
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Provider
+- Cloudinary
 
-A few resources to get you started if this is your first Flutter project:
+## Developer
+Tayyab Siddiqui
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Description
+This project was developed as a software engineering project to demonstrate mobile application development, authentication, database integration, and state management.
